@@ -1,1 +1,1 @@
-# This project is a Portfolio about someone.
+# This project is a Portfolio.
