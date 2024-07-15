@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "SpaceGrotesk";
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("./fonts/SpaceGrotesk-Bold.ttf") format("tff");
+}
+
+@font-face {
+    font-family: "SpaceGrotesk";
+    font-style: normal;
+    font-weight: 500;
+    src: url("./fonts/SpaceGrotesk-Medium.ttf") format("tff");
+}
+
+@font-face {
+    font-family: "SpaceGrotesk";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/SpaceGrotesk-VariableFont_wght.ttf") format("tff");
+}

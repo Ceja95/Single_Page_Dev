@@ -1,4 +1,9 @@
 .page {
+    max-width: 1440px;
+    height: 3872px;
     background-color: #000;
     color: #fff;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-top: 39px;
 }

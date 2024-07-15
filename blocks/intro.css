@@ -1,0 +1,17 @@
+.intro {
+}
+
+.intro__header {
+    font-size: 48px;
+    position: relative;
+    z-index: 2;
+}
+
+.intro__span {
+    display: block;
+}
+
+.intro__description {
+    position: relative;
+    z-index: 2;
+}
